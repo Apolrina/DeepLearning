@@ -5,9 +5,9 @@
 
 Согласно данным Russian SuperGLUE https://russiansuperglue.com/leaderboard/2 , лучшими LLM для русского языка являются:
 
-1) Mistral-7b-instruct https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1 от стартапа Mistral.ai, затюненная Ильёй Гусевым на русских инструкционных датасетах https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora (а сейчас Mistral.ai выпустил уже новую версию https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2 );
+1. Mistral-7b-instruct https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.1 от стартапа Mistral.ai, затюненная Ильёй Гусевым на русских инструкционных датасетах https://huggingface.co/IlyaGusev/saiga_mistral_7b_lora (а сейчас Mistral.ai выпустил уже новую версию https://huggingface.co/mistralai/Mistral-7B-Instruct-v0.2 );
 
-2). FRED-T5-1.7B  от Сбера https://huggingface.co/ai-forever/FRED-T5-1.7B
+2. FRED-T5-1.7B  от Сбера https://huggingface.co/ai-forever/FRED-T5-1.7B
 
 Первый вариант - типичный представитель decoder only архитектуры, а второй - это классический seq2seq-трансформер.
 
